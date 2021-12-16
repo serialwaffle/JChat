@@ -1,6 +1,6 @@
 # JChat
 
-Lightweight team chat written in C++. Based heavily on "messenger" by AraKhachatryan, JChat is a command line chat program for Linux/Unix that allows for quick communcation between users on the same LAN. JChat is meant to be extremely portable, and has no encryption and makes no attempt to obfuscate messages. It is meant to be used on a secure network where privacy/encryption is handled by the netowrk (aka Wireguard or OpenVPN). It is particuleraly useful as lightweight communcations in Red Team engagements.
+Lightweight team chat written in C++. Based heavily on "messenger" by AraKhachatryan, JChat is a command line chat program for Linux/Unix that allows for quick communcation between users on the same LAN. JChat is meant to be extremely portable, and has no encryption and makes no attempt to obfuscate messages. It is meant to be used on a secure network where privacy/encryption is handled by the network (aka Wireguard or OpenVPN). It is particularly useful as lightweight communcations in Red Team engagements.
 
 ## Files
 
